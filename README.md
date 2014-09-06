@@ -11,5 +11,5 @@ $str_obj = new add_turkish_additional("İzmir",1,"'");
 echo $str_obj->text_width_additional ;
 ```
 
-<h5>This code's output</h5> :
+<h6>This code's output:</h6> 
 <p>İzmir'de</p>
